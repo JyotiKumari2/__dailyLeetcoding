@@ -22,8 +22,10 @@ And, here I will share my daily progress📈,
 ## Overview:memo:
 
 |**Day:pushpin:**|**Date &nbsp;:calendar:**|**Problem🧩**|**Practice/Contest🚨**|**Status(✔️/❌)**|**Reference Links :link:**|
-|------|-----------------|------------------------------------------|----------------------------------|----|------------------------------------------
-|Day 001| |   |  |
+|------|----------------------------|------------------------------------------|----------------------------------|----|------------------------------------------
+|Day 001| 01-10-2021 | Squares of a sorted array.  | Practice  |✔️ | https://leetcode.com/problems/squares-of-a-sorted-array/
+|       | | Rotate Array.  | Practice |✔️ | https://leetcode.com/problems/rotate-array/
+|       | | Next Greater Element.  | Practice  |✔️ | https://leetcode.com/problems/next-greater-element-iii/
 |Day 002| |   |  |
 |Day 003| |   |  |
 |Day 004| |   |  |
