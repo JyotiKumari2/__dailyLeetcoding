@@ -26,7 +26,8 @@ And, here I will share my daily progress📈,
 |Day 001| 01-10-2021 | Squares of a sorted array.  | Practice  |✔️ | https://leetcode.com/problems/squares-of-a-sorted-array/
 |       | | Rotate Array.  | Practice |✔️ | https://leetcode.com/problems/rotate-array/
 |       | | Next Greater Element.  | Practice  |✔️ | https://leetcode.com/problems/next-greater-element-iii/
-|Day 002| |   |  |
+|Day 002| 02-10-2021 | Majority Element 1  | Practice  |✔️ | https://leetcode.com/problems/majority-element/
+|| | Majority Element 2   | Practice |✔️ | https://leetcode.com/problems/majority-element-ii/
 |Day 003| |   |  |
 |Day 004| |   |  |
 |Day 005| |   |  |
