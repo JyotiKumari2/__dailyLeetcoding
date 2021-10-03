@@ -28,7 +28,7 @@ And, here I will share my daily progress📈,
 |       | | Next Greater Element.  | Practice  |✔️ | https://leetcode.com/problems/next-greater-element-iii/
 |Day 002| 02-10-2021 | Majority Element 1  | Practice  |✔️ | https://leetcode.com/problems/majority-element/
 || | Majority Element 2   | Practice |✔️ | https://leetcode.com/problems/majority-element-ii/
-|Day 003| |   |  |
+|Day 003| 03-10-2021 | Max Chunks to Make Sorted.  | Practice |✔️ | https://leetcode.com/problems/max-chunks-to-make-sorted/
 |Day 004| |   |  |
 |Day 005| |   |  |
 |Day 006| |   |  |
