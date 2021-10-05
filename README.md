@@ -30,7 +30,7 @@ And, here I will share my daily progress📈,
 || | Majority Element 2   | Practice |✔️ | https://leetcode.com/problems/majority-element-ii/
 |Day 003| 03-10-2021 | Max Chunks to Make Sorted.  | Practice |✔️ | https://leetcode.com/problems/max-chunks-to-make-sorted/
 |Day 004| 04-10-2021 | 3Sum  | Practice |✔️ | https://leetcode.com/problems/3sum/submissions/
-|Day 005| |   |  |
+|Day 005| 05-10-2021 | Sort Array By Parity  | Practice |✔️ | https://leetcode.com/problems/sort-array-by-parity/
 |Day 006| |   |  |
 |Day 007| |   |  |
 |Day 008| |   |  |
