@@ -31,7 +31,7 @@ And, here I will share my daily progress📈,
 |Day 003| 03-10-2021 | Max Chunks to Make Sorted.  | Practice |✔️ | https://leetcode.com/problems/max-chunks-to-make-sorted/
 |Day 004| 04-10-2021 | 3Sum  | Practice |✔️ | https://leetcode.com/problems/3sum/submissions/
 |Day 005| 05-10-2021 | Sort Array By Parity  | Practice |✔️ | https://leetcode.com/problems/sort-array-by-parity/
-|Day 006| |   |  |
+|Day 006| 06-10-2021 | Longest Substring Without Repeating Characters  | Practice |✔️ | https://leetcode.com/problems/longest-substring-without-repeating-characters/
 |Day 007| |   |  |
 |Day 008| |   |  |
 |Day 009| |   |  |
