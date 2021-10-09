@@ -34,7 +34,8 @@ And, here I will share my daily progress📈,
 |Day 006| 06-10-2021 | Longest Substring Without Repeating Characters  | Practice |✔️ | https://leetcode.com/problems/longest-substring-without-repeating-characters/
 |Day 007| 07-10-2021 | Maximize distance to closest person  | Practice | ❌|https://leetcode.com/problems/maximize-distance-to-closest-person/submissions/
 |Day 008| 08-10-2021 | Running sum of 1d Array (using recursion)  | Practice  |❌ | https://leetcode.com/problems/running-sum-of-1d-array/submissions/
-|Day 009| |   |  |
+|Day 009| 09-10-2021 | Count Primes  | Practice |✔️ | https://leetcode.com/problems/count-primes/submissions/
+|| | Symmetric Tree  | Practice |✔️ | https://leetcode.com/problems/symmetric-tree/
 |Day 010| |   |  |
 |Day 011| |   |  |
 |Day 012| |   |  |
