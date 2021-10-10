@@ -36,7 +36,8 @@ And, here I will share my daily progress📈,
 |Day 008| 08-10-2021 | Running sum of 1d Array (using recursion)  | Practice  |❌ | https://leetcode.com/problems/running-sum-of-1d-array/submissions/
 |Day 009| 09-10-2021 | Count Primes  | Practice |✔️ | https://leetcode.com/problems/count-primes/submissions/
 || | Symmetric Tree  | Practice |✔️ | https://leetcode.com/problems/symmetric-tree/
-|Day 010| |   |  |
+|Day 010| 10-10-2021 | Valid Parantheses  | Practice |✔️| https://leetcode.com/problems/valid-parentheses/
+| | | Build an array with stack operations  | Practice |✔️|https://leetcode.com/problems/build-an-array-with-stack-operations/
 |Day 011| |   |  |
 |Day 012| |   |  |
 |Day 013| |   |  |
