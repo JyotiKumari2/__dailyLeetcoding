@@ -38,7 +38,7 @@ And, here I will share my daily progress📈,
 || | Symmetric Tree  | Practice |✔️ | https://leetcode.com/problems/symmetric-tree/
 |Day 010| 10-10-2021 | Valid Parantheses  | Practice |✔️| https://leetcode.com/problems/valid-parentheses/
 | | | Build an array with stack operations  | Practice |✔️|https://leetcode.com/problems/build-an-array-with-stack-operations/
-|Day 011| |   |  |
+|Day 011| 11-10-2021 | Online Stock Span Problem  | Practice |✔️|https://leetcode.com/problems/online-stock-span/
 |Day 012| |   |  |
 |Day 013| |   |  |
 |Day 014| |   |  |
