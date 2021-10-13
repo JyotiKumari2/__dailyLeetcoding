@@ -40,7 +40,7 @@ And, here I will share my daily progress📈,
 | | | Build an array with stack operations  | Practice |✔️|https://leetcode.com/problems/build-an-array-with-stack-operations/
 |Day 011| 11-10-2021 | Online Stock Span Problem  | Practice |✔️|https://leetcode.com/problems/online-stock-span/
 |Day 012|12-10-2021 | Shortest Palindrome  | Practice  |✔️|https://leetcode.com/problems/shortest-palindrome/
-|Day 013| |   |  |
+|Day 013|13-10-2021 | Longest Consecutive Sequence  | Practice |✔️|https://leetcode.com/problems/longest-consecutive-sequence/
 |Day 014| |   |  |
 |Day 015| |   |  |
 |Day 016| |   |  |
