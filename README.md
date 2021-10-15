@@ -41,7 +41,7 @@ And, here I will share my daily progress📈,
 |Day 011| 11-10-2021 | Online Stock Span Problem  | Practice |✔️|https://leetcode.com/problems/online-stock-span/
 |Day 012|12-10-2021 | Shortest Palindrome  | Practice  |✔️|https://leetcode.com/problems/shortest-palindrome/
 |Day 013|13-10-2021 | Longest Consecutive Sequence  | Practice |✔️|https://leetcode.com/problems/longest-consecutive-sequence/
-|Day 014| |   |  |
+|Day 014|14-10-2021| Palindrome Number  |Practice  |✔️|https://leetcode.com/problems/palindrome-number/
 |Day 015| |   |  |
 |Day 016| |   |  |
 |Day 017| |   |  |
