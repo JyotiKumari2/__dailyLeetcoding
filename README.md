@@ -43,8 +43,11 @@ And, here I will share my daily progress📈,
 |Day 013|13-10-2021 | Longest Consecutive Sequence  | Practice |✔️|https://leetcode.com/problems/longest-consecutive-sequence/
 |Day 014|14-10-2021| Palindrome Number  |Practice  |✔️|https://leetcode.com/problems/palindrome-number/
 |Day 015|15-10-2021 | Roman to Integer  |Practice  |✔️|https://leetcode.com/problems/roman-to-integer/
-|Day 016| |   |  |
-|Day 017| |   |  |
+|Day 016|16-10-2021 | Binary Tree Inorder Traversal  | Practice |✔️|https://leetcode.com/problems/binary-tree-inorder-traversal/
+| | | Binary Tree Preorder Traversal  |Practice  |✔️|https://leetcode.com/problems/binary-tree-preorder-traversal/
+| | | Binary Tree Postorder Traversal   | Practice |✔️|https://leetcode.com/problems/binary-tree-postorder-traversal/
+| | | Maximum Depth of Binary Tree  | Practice |✔️|https://leetcode.com/problems/maximum-depth-of-binary-tree/
+| | |   |  |
   
 --------
   
