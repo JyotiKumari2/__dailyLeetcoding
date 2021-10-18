@@ -50,6 +50,7 @@ And, here I will share my daily progress📈,
 |  |  | Minimum number of Moves to seat everyone | Contest | ✔️ | https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/|
 |  |  |Kth smallest Product of Two Sorted Arrays   | Contest |❌ |https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays |
 |Day 017 |17-10-2021 |Kth smallest Product of Two Sorted Arrays   | Practice |✔️|https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/ |
+|||Binary Search | Practice |✔️|https://leetcode.com/problems/binary-search/submissions/|
   
 --------
   
