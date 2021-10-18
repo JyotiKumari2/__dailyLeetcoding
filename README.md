@@ -50,8 +50,11 @@ And, here I will share my daily progress📈,
 |  |  | Minimum number of Moves to seat everyone | Contest | ✔️ | https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/|
 |  |  |Kth smallest Product of Two Sorted Arrays   | Contest |❌ |https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays |
 |Day 017 |17-10-2021 |Kth smallest Product of Two Sorted Arrays   | Practice |✔️|https://leetcode.com/problems/kth-smallest-product-of-two-sorted-arrays/ |
-|||Binary Search | Practice |✔️|https://leetcode.com/problems/binary-search/submissions/| 
-|||Balanced Binary Tree| Practice|✔️|https://leetcode.com/problems/balanced-binary-tree/
+|||Binary Search | Practice |✔️|https://leetcode.com/problems/binary-search/submissions/|
+|||First Bad Version| Practice|✔️|https://leetcode.com/problems/first-bad-version/|
+|||Search Insert Position|Practice|✔️|https://leetcode.com/problems/search-insert-position/|
+|Day 018|18-10-2021|Balanced Binary Tree| Practice|✔️|https://leetcode.com/problems/balanced-binary-tree/|  
+ 
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
