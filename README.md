@@ -54,7 +54,7 @@ And, here I will share my daily progress📈,
 |||First Bad Version| Practice|✔️|https://leetcode.com/problems/first-bad-version/|
 |||Search Insert Position|Practice|✔️|https://leetcode.com/problems/search-insert-position/|
 |Day 018|18-10-2021|Balanced Binary Tree| Practice|✔️|https://leetcode.com/problems/balanced-binary-tree/|  
- 
+|Day 019|19-10-2021|Diameter Of Binary Tree| Practice|✔️|https://leetcode.com/problems/diameter-of-binary-tree/| 
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
