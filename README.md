@@ -59,6 +59,10 @@ And, here I will share my daily progress📈,
 |Day 021|21-10-2021|Longest Common Prefix|Practice|✔️|https://leetcode.com/problems/longest-common-prefix/|
 |Day 022|22-10-2021|Implement strStr()|Practice|✔️|https://leetcode.com/problems/implement-strstr/|
 |Day 023|23-10-2021|Remove Element|Practice|✔️|https://leetcode.com/problems/remove-element/|
+|Day 024|24-10-2021|Move Zeroes|Practice|✔️|https://leetcode.com/problems/move-zeroes/|
+|||Reverse String|Practice|✔️|https://leetcode.com/problems/reverse-string/|
+|||Reverse Words in a String|Practice|✔️|https://leetcode.com/problems/reverse-words-in-a-string-iii/|
+|||Two sum II Input Array is sorted|Practice|✔️|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
