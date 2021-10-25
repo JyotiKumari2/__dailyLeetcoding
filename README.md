@@ -63,6 +63,9 @@ And, here I will share my daily progress📈,
 |||Reverse String|Practice|✔️|https://leetcode.com/problems/reverse-string/|
 |||Reverse Words in a String|Practice|✔️|https://leetcode.com/problems/reverse-words-in-a-string-iii/|
 |||Two sum II Input Array is sorted|Practice|✔️|https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/|
+|Day 025|25-10-2021| Mid of the Linked List| Practice|✔️|https://leetcode.com/problems/middle-of-the-linked-list/|
+|||Nth node from end of list| Practice|✔️|https://leetcode.com/problems/remove-nth-node-from-end-of-list/|
+|||Longest substring without repeating characters|Practice|✔️|https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
