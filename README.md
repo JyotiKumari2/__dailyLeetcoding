@@ -66,6 +66,9 @@ And, here I will share my daily progress📈,
 |Day 025|25-10-2021| Mid of the Linked List| Practice|✔️|https://leetcode.com/problems/middle-of-the-linked-list/|
 |||Nth node from end of list| Practice|✔️|https://leetcode.com/problems/remove-nth-node-from-end-of-list/|
 |||Longest substring without repeating characters|Practice|✔️|https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/|
+|Day 026|26-10-2021|Maximum Subarray|Practice|✔️|https://leetcode.com/problems/maximum-subarray/|
+|||Contains Duplicates|Practice|✔️|https://leetcode.com/problems/contains-duplicate/|
+|||Two Sum|Practice|✔️|https://leetcode.com/problems/two-sum/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
