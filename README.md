@@ -69,6 +69,7 @@ And, here I will share my daily progress📈,
 |Day 026|26-10-2021|Maximum Subarray|Practice|✔️|https://leetcode.com/problems/maximum-subarray/|
 |||Contains Duplicates|Practice|✔️|https://leetcode.com/problems/contains-duplicate/|
 |||Two Sum|Practice|✔️|https://leetcode.com/problems/two-sum/|
+|Day 027|27-10-2021|Merge Two Sorted Arrays|Practice|✔️|https://leetcode.com/problems/merge-sorted-array/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
