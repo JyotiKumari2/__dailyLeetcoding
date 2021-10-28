@@ -70,6 +70,8 @@ And, here I will share my daily progress📈,
 |||Contains Duplicates|Practice|✔️|https://leetcode.com/problems/contains-duplicate/|
 |||Two Sum|Practice|✔️|https://leetcode.com/problems/two-sum/|
 |Day 027|27-10-2021|Merge Two Sorted Arrays|Practice|✔️|https://leetcode.com/problems/merge-sorted-array/|
+|Day 028|28-10-2021|Intersection of two arrays II|Practice|✔️|https://leetcode.com/problems/intersection-of-two-arrays-ii/|
+|||Best Time to Buy and Sell Stock|Practice|✔️|https://leetcode.com/problems/best-time-to-buy-and-sell-stock/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
