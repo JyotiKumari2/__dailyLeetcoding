@@ -73,6 +73,8 @@ And, here I will share my daily progress📈,
 |Day 028|28-10-2021|Intersection of two arrays II|Practice|✔️|https://leetcode.com/problems/intersection-of-two-arrays-ii/|
 |||Best Time to Buy and Sell Stock|Practice|✔️|https://leetcode.com/problems/best-time-to-buy-and-sell-stock/|
 |Day 029|29-10-2021|Plus One|Practice|✔️|https://leetcode.com/problems/plus-one/|
+|Day 030|30-10-2021|Reverse Bits|Practice|✔️||
+|||Number of One Bits|Practice|✔️|https://leetcode.com/problems/number-of-1-bits/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
