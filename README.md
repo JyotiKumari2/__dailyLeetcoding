@@ -76,6 +76,7 @@ And, here I will share my daily progress📈,
 |Day 030|30-10-2021|Reverse Bits|Practice|✔️||
 |||Number of One Bits|Practice|✔️|https://leetcode.com/problems/number-of-1-bits/|
 |Day 031|31-10-2021| Longest Common Subsequence| Practice|✔️|https://leetcode.com/problems/longest-common-subsequence/|
+|Day 032|01-11-2021|Surrounded Region|Practice|✔️|https://leetcode.com/problems/surrounded-regions/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
