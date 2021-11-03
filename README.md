@@ -21,7 +21,7 @@ And, here I will share my daily progress📈,
 ### #100DaysOfLeetCoding🤘
 ## Overview:memo:
 
-|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Problem🧩**|**Practice/Contest🚨**|**Status(✔️/❌)**|**Reference Links :link:**|
+|**Day:pushpin:**|**Date &nbsp;:calendar:**|**Problem🧩**|**Level🚨**|**Status(✔️/❌)**|**Reference Links :link:**|
 |------|----------------------------|------------------------------------------|----------------------------------|----|------------------------------------------|
 |Day 001| 01-10-2021 | Squares of a sorted array.  | Practice  |✔️ | https://leetcode.com/problems/squares-of-a-sorted-array/ |
 |       | | Rotate Array.  | Practice |✔️ | https://leetcode.com/problems/rotate-array/|
@@ -77,7 +77,8 @@ And, here I will share my daily progress📈,
 |||Number of One Bits|Practice|✔️|https://leetcode.com/problems/number-of-1-bits/|
 |Day 031|31-10-2021| Longest Common Subsequence| Practice|✔️|https://leetcode.com/problems/longest-common-subsequence/|
 |Day 032|01-11-2021|Surrounded Region|Practice|✔️|https://leetcode.com/problems/surrounded-regions/|
-|Day 033|02-11-2021Unique Paths III|Practice|✔️|https://leetcode.com/problems/unique-paths-iii/|
+|Day 033|02-11-2021|Unique Paths III|Practice|✔️|https://leetcode.com/problems/unique-paths-iii/|
+|Day 034|03-11-2021|Sum root to leaf| Medium|✔️|https://leetcode.com/problems/sum-root-to-leaf-numbers/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
