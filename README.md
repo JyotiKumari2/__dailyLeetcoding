@@ -79,6 +79,8 @@ And, here I will share my daily progress📈,
 |Day 032|01-11-2021|Surrounded Region|Practice|✔️|https://leetcode.com/problems/surrounded-regions/|
 |Day 033|02-11-2021|Unique Paths III|Practice|✔️|https://leetcode.com/problems/unique-paths-iii/|
 |Day 034|03-11-2021|Sum root to leaf| Medium|✔️|https://leetcode.com/problems/sum-root-to-leaf-numbers/|
+|Day 035|04-11-2021|Sum of left leafs|Easy|✔️|https://leetcode.com/problems/sum-of-left-leaves/|
+|Day 036|05-11-2021|Arranging Coins|Easy|✔️|https://leetcode.com/problems/arranging-coins/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
