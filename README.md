@@ -81,6 +81,13 @@ And, here I will share my daily progress📈,
 |Day 034|03-11-2021|Sum root to leaf| Medium|✔️|https://leetcode.com/problems/sum-root-to-leaf-numbers/|
 |Day 035|04-11-2021|Sum of left leafs|Easy|✔️|https://leetcode.com/problems/sum-of-left-leaves/|
 |Day 036|05-11-2021|Arranging Coins|Easy|✔️|https://leetcode.com/problems/arranging-coins/|
+|Day 037|06-11-2021|Convert sorted array to BST|Easy|✔️|https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/|
+|||Path Sum|Easy|✔️|https://leetcode.com/problems/path-sum/|
+|||Same Tree|Easy|✔️|https://leetcode.com/problems/same-tree/|
+|||Search Insert Position|Easy|✔️|https://leetcode.com/problems/search-insert-position/|
+|||Single Number III|Medium|✔️|https://leetcode.com/problems/single-number-iii/|
+|||Squares of Sorted Array|Easy|✔️|https://leetcode.com/problems/squares-of-a-sorted-array/|
+
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
