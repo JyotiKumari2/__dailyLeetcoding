@@ -87,6 +87,7 @@ And, here I will share my daily progress📈,
 |||Search Insert Position|Easy|✔️|https://leetcode.com/problems/search-insert-position/|
 |||Single Number III|Medium|✔️|https://leetcode.com/problems/single-number-iii/|
 |||Squares of Sorted Array|Easy|✔️|https://leetcode.com/problems/squares-of-a-sorted-array/|
+|Day 038|07-11-2021|Multiply Strings|Medium|✔️|https://leetcode.com/problems/multiply-strings/submissions/|
 
 --------
   
