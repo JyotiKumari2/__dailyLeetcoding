@@ -91,6 +91,8 @@ And, here I will share my daily progress📈,
 |||sqrt(x)|Easy|✔️|https://leetcode.com/problems/sqrtx/|
 |||Add Binary|Easy|✔️|https://leetcode.com/problems/add-binary/|
 |Day 039|08-11-2021|UNique Binary Search Trees|Medium|✔️|https://leetcode.com/problems/unique-binary-search-trees/|
+|||Climbing Stairs|Easy|✔️|https://leetcode.com/problems/climbing-stairs/|
+|||Minimum depth of binary tree|Easy|✔️|https://leetcode.com/problems/minimum-depth-of-binary-tree/|
 
 --------
   
