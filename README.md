@@ -94,6 +94,8 @@ And, here I will share my daily progress📈,
 |||Climbing Stairs|Easy|✔️|https://leetcode.com/problems/climbing-stairs/|
 |||Minimum depth of binary tree|Easy|✔️|https://leetcode.com/problems/minimum-depth-of-binary-tree/|
 |Day 040|09-11-2021|Number of valid words for each puzzles|Hard|❌|https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/|
+|||Find Length of Last Word|Easy|✔️|https://leetcode.com/problems/length-of-last-word/submissions/|
+|||Remove Duplicates from sorted list|Easy|✔️|https://leetcode.com/problems/remove-duplicates-from-sorted-list/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
