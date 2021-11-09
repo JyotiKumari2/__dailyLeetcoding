@@ -93,7 +93,7 @@ And, here I will share my daily progress📈,
 |Day 039|08-11-2021|UNique Binary Search Trees|Medium|✔️|https://leetcode.com/problems/unique-binary-search-trees/|
 |||Climbing Stairs|Easy|✔️|https://leetcode.com/problems/climbing-stairs/|
 |||Minimum depth of binary tree|Easy|✔️|https://leetcode.com/problems/minimum-depth-of-binary-tree/|
-
+|Day 040|09-11-2021|Number of valid words for each puzzles|Hard|❌|https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
