@@ -91,6 +91,7 @@ And, here I will share my daily progress📈,
 |||sqrt(x)|Easy|✔️|https://leetcode.com/problems/sqrtx/|
 |||Add Binary|Easy|✔️|https://leetcode.com/problems/add-binary/|
 |Day 039|08-11-2021|UNique Binary Search Trees|Medium|✔️|https://leetcode.com/problems/unique-binary-search-trees/|
+|Day 040|09-11-2021|Number of Valid Words for each puzzle|Hard|✔️|https://leetcode.com/problems/number-of-valid-words-for-each-puzzle/|
 
 --------
   
