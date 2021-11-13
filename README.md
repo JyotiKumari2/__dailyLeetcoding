@@ -99,6 +99,7 @@ And, here I will share my daily progress📈,
 |Day 041|10-11-2021|Best Time to sell and buy stock|Medium|✔️|https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/submissions/|
 |Day 042|11-11-2021|Minimum Value to Get positive step by step|Easy|✔️|https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/|
 |Day 043|12-11-2021|Remove linked list element|Easy|✔️|https://leetcode.com/problems/remove-linked-list-elements/|
+|Day 044|13-11-2021|Daily Temperatures|Medium|✔️|https://leetcode.com/problems/daily-temperatures/|
 --------
   
 <!-- ### 👩‍💻 Other Online Coding Profile
