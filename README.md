@@ -116,6 +116,7 @@ And, here I will share my daily progress📈,
 |Day 058|27-11-2021|Product of array except self|Medium|✔️|https://leetcode.com/problems/product-of-array-except-self/|
 |Day 059|28-11-2021|All paths from source to target|Medium|✔️|https://leetcode.com/problems/all-paths-from-source-to-target/|
 |Day 060|29-11-2021|Accounts Merge|Medium|✔️|https://leetcode.com/problems/accounts-merge/|
+|DAy 061|30-11-2021|Maximal Rectangle|Hard|✔️|https://leetcode.com/problems/maximal-rectangle/|
 
 
 --------
